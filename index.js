@@ -13,7 +13,7 @@ var users = []
 const fakeUser = {
     id: 1,
     firstName: 'Andrij',
-    lastName: 'QQQQQQQQQQ'
+    lastName: 'LLLLLLLLLLLLLLLLLLLLL'
 };
 
 users.push(fakeUser);
